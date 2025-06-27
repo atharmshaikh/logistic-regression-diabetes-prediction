@@ -28,7 +28,7 @@ The dataset includes medical predictor variables such as:
 ```
 .
 ├── logistic_regression_diabetes.ipynb   # Jupyter notebook with full implementation
-├── pima-indians-diabetes.data.csv            # Dataset (automatically loaded from URL in code)
+├── pima-indians-diabetes.data.csv       # Dataset 
 ├── README.md                            # Project documentation
 ├── requirements.txt                     # Python dependencies
 
